@@ -13,7 +13,7 @@ public class StoreTest{
             System.out.println("Bruh why tf you spending so much damn");
         }
         if (one.findDollars() <= 10) {
-            System.out.println("Dude you better put more in your cart and buy stuff.");
+            System.out.println("Dude you better put more in your cart and buy stuff. I hope you get shot in the streets.");
         }
     }
 
